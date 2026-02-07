@@ -1,5 +1,5 @@
 my_tuple = ("Anna", 27, "Python Developer")
 
-___, ___, ___ = ___
+name, age, career = my_tuple
 
 print(name, age, career)
